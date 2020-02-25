@@ -1,0 +1,12 @@
+{
+  "name": "dark_bridge",
+  "version": "0.1.0",
+  "description": "Projet Bot Discord",
+  "main": "main.js",
+  "repository": "https://github.com/Blackoutfr/Dark-Bridge.git",
+  "author": "<antoine.bocquet3@orange.fr>",
+  "license": " ",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
